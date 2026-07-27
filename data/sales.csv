@@ -1,0 +1,13 @@
+region,product,month,revenue_usd,units
+North,laptop,2026-06,120000,80
+North,phone,2026-06,90000,300
+North,laptop,2026-07,135000,90
+North,phone,2026-07,102000,340
+South,laptop,2026-06,80000,53
+South,phone,2026-06,150000,500
+South,laptop,2026-07,88000,58
+South,phone,2026-07,161000,537
+Central,laptop,2026-06,40000,26
+Central,phone,2026-06,60000,200
+Central,laptop,2026-07,44000,29
+Central,phone,2026-07,66000,220
